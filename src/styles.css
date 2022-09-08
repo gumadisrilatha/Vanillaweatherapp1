@@ -1,6 +1,7 @@
 body {
   font-family: arial, sans-serif;
   background-image: url(https://images.pexels.com/photos/1631677/pexels-photo-1631677.jpeg?auto=compress&cs=tinysrgb&w=800);
+  background:cover;
 }
 .weather-app {
   display: block;
