@@ -9,6 +9,7 @@ body {
   max-width: 600px;
   padding: 20px;
   border: 2px solid #dadde1;
+  border-color:black;
   border-radius: 5px;
   margin-bottom: 0;
   background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfjogj_WFpnH1ylMI9iSjKN4nGO8jMrgp2Hw&usqp=CAU);
