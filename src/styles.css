@@ -1,0 +1,113 @@
+body {
+  font-family: arial, sans-serif;
+  background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+}
+.weather-app {
+  display: block;
+  margin: 0 auto;
+  margin-top: 100px;
+  max-width: 600px;
+  padding: 20px;
+  border: 1px solid #dadde1;
+  border-radius: 5px;
+  margin-bottom: 0;
+  background-image: url(https://media.istockphoto.com/vectors/colorful-summer-background-vector-illustration-vector-id950452058?k=20&m=950452058&s=612x612&w=0&h=Obm-G4Rm6uCigcYuk4vRxNMSve1q5BhyuJHMkMQOy2U=);
+}
+h1 {
+  color: #878787;
+  font-size: 24px;
+  font-weight: 100;
+  line-height: 28px;
+}
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+li {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(135, 135, 135);
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 19px;
+}
+li::first-letter {
+  text-transform: capitalize;
+}
+.pagecontent {
+  max-width: 600px;
+  margin: 30px auto;
+}
+.my-city {
+  margin-bottom: 40px;
+}
+.weather-icon img {
+  margin-right: 10px;
+  height: 80px;
+  width: 80px;
+  line-height: 1;
+}
+.temp {
+  color: rgb(33, 33, 33);
+  font-size: 50px;
+  line-height: 1;
+  margin-left: 10px;
+}
+.contain {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+img {
+  max-width: 100%;
+}
+
+.image {
+  flex-basis: 20%;
+}
+
+.text {
+  font-size: 60px;
+  padding-left: 20px;
+  position: relative;
+  margin-top: -40px;
+}
+.units {
+  font-size: 15px;
+  position: relative;
+  margin-top: -60px;
+  margin-left: 70px;
+  text-decoration-color: none;
+}
+.active {
+  color: black;
+  cursor: default;
+}
+.active:hover {
+  text-decoration: none;
+  color: black;
+}
+.days {
+  line-height: 40px;
+  margin-top: 50px;
+}
+.weather-forecast {
+  margin-top: 30px;
+}
+.weather-forecastdate {
+  font-size: 16px;
+  color: black;
+  opacity: 0.5;
+}
+.weather-forecasttemperatures {
+  font-size: 13px;
+}
+.weather-forecast-temperature-min {
+  opacity: 0.5;
+}
+.codelink {
+  position: relative;
+  padding-left: 600px;
+}
