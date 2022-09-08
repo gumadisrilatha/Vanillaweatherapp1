@@ -98,14 +98,15 @@ img {
 }
 .weather-forecastdate {
   font-size: 16px;
-  color: black;
-  opacity: 0.5;
+  color:black;
+  opacity:0.2;
+ 
 }
 .weather-forecasttemperatures {
   font-size: 13px;
 }
 .weather-forecast-temperature-min {
-  opacity: 0.5;
+  opacity: 0.2;
 }
 .codelink {
   position: relative;
